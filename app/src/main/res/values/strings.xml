@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The Abyss</string>
+    <string name="email_address">حط اسمك ي لبا</string>
+    <string name="password">Password</string>
+    <string name="login_now">أدخل ي حلو</string>
+    <string name="welcome">نورت ي </string>
+
+    <string name="welcome_now"> فديت هالعيون انا " تقدر تنقلع :) </string>
+    <string name="don_t_remember_password">Don\'t Remember password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="or">or</string>
+    <string name="mysign">CodedByAhmed</string>
+    <string name="frined_key">frind name</string>
+    <string name="logo">logo</string>
+</resources>
